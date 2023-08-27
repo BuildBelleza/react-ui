@@ -1,6 +1,6 @@
 const Header = (): JSX.Element => (
   <header>
-    <div className="y-wrap">Header</div>
+    <div className="y-wrap">Hawkins Custom Tile</div>
   </header>
 );
 
